@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+*.egg-info/
+output/
+data/*
+config/*
+models/*
+.DS_Store
+envs
+!*.gitkeep

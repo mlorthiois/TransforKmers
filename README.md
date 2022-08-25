@@ -1,3 +1,8 @@
+---
+⚠️ Code has been moved to
+[IGDRIon/TransforKmers](https://github.com/IGDRIon/TransforKmers.git) ⚠️
+---
+
 # TransforKmers
 
 A task-agnostic facility to pretrain/finetune and use a Transformer based model to classify your DNA/RNA sequences.
